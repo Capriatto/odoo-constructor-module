@@ -158,7 +158,7 @@ file.write('<menuitem id="submenu_ej_' + name + '_action" name="'+ name.capitali
 file.write('</odoo> \n')
 file.close()
 
-print("Se a creado el Modulo:" + name)
+print("Se ha creado el Modulo:" + name)
 
 
 
